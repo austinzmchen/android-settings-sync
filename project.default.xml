@@ -1,0 +1,188 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/1-002-the-starter-app/start" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/1-004-check-connectivity/start" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/1-005-message-handlers/start" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/1-007-challenge-shared-prefs-repository/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/2-002-linear-layout-managers/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/2-003-get-requests/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/2-003-nested-recyclerviews/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/2-007-staggered-grid-layout-manager/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/3-002-authentication/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/4-006-relationships/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/5-006-swipe-to-delete/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/kotlin-coroutines-master/kotlin-coroutines-end" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/spinner-datepicker-resurrection-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wsAndroid/AIH/Freckl_Shop" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wsKotlin/Android/RW-RecyclerView/1-002-the-starter-app/start" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wsKotlin/Android/RW-RecyclerView/1-007-challenge-favorites/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wsKotlin/Android/RW-RecyclerView/1-007-challenge-favorites/start" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wsKotlin/Android/RW-RecyclerView/SimpleRecyclerAnimals" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wsKotlin/Android/RW_Beginning Layout/2-009-challenge-frame-layout/start" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wsKotlin/Android/RayWenderlichTuts/4.RW-RecyclerView/1-002-the-starter-app/end" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wsKotlin/Android/RayWenderlichTuts/RW-SavingData/SavingData-Room" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/wsKotlin/Android/RayWenderlichTuts/RW_Beginning Layout/1-003_2-005_2-009_Archive/2-009-challenge-frame-layout/end" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Cloning issuesJava</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>Control flow issuesJava</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>IconsUsabilityLintAndroid</id>
+              </State>
+              <State>
+                <id>Initialization issuesJava</id>
+              </State>
+              <State>
+                <id>Internationalization issues</id>
+              </State>
+              <State>
+                <id>Internationalization issuesJava</id>
+              </State>
+              <State>
+                <id>InternationalizationLintAndroid</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level issuesJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Naming conventionsJava</id>
+              </State>
+              <State>
+                <id>Pattern Validation</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>PerformanceLintAndroid</id>
+              </State>
+              <State>
+                <id>Probable bugsGroovy</id>
+              </State>
+              <State>
+                <id>RELAX NG</id>
+              </State>
+              <State>
+                <id>SecurityLintAndroid</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+              <State>
+                <id>UsabilityLintAndroid</id>
+              </State>
+              <State>
+                <id>XML</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+      </component>
+      <component name="RunManager">
+        <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="HTML_FILE_NAME" />
+          <option name="HTML_USED" value="false" />
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <option name="VM_PARAMETERS" />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>
