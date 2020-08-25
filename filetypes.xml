@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="abc" type="PLAIN_TEXT" />
       <mapping pattern="privacy_n_terms" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="podspec" type="PLAIN_TEXT" />
